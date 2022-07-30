@@ -1,0 +1,6 @@
+print("Hello world:")
+print("I am learning python:")
+print("python is easy to learn and work on for different projects:")
+print("It's the day one :")
+print("Game started:")
+input("\n\nPress the enter key to exit.")
